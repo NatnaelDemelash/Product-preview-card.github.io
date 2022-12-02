@@ -4,4 +4,6 @@
 
 ## Hello! 👋
 
-[Live demo](shorturl.at/mqGM9)
+Welcome to a finished frontend mentor coding challange!
+
+[Live demo](https://natnaeldemelash.github.io/Product-preview-card.github.io/)
