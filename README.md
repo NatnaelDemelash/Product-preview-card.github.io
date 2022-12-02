@@ -4,4 +4,4 @@
 
 ## Hello! 👋
 
-## Live demo: [https://natnaeldemelash.github.io/Product-preview-card.github.io/] 
+## Live demo: (shorturl.at/mqGM9)
