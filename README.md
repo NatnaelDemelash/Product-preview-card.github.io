@@ -4,6 +4,4 @@
 
 ## Hello! 👋
 
-## Got feedback for me?
-
-I love receiving feedback! So, if you have anything you'd like to mention, please email me @ natidemelash074@gmail.com
+## Live demo: [https://natnaeldemelash.github.io/Product-preview-card.github.io/] 
